@@ -30,7 +30,7 @@
 
 # -------------------------------
 
-### BrainSeed Corp
+### No name Agency
 #### Membres : Jérémy, Lucas, Bennet
 * [Lien Trello](https://trello.com/)
 * [Lien Github](https://github.com)
