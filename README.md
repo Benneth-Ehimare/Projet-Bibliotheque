@@ -30,7 +30,7 @@
 
 # -------------------------------
 
-### GBL 
+### JBL 
 #### Membres : Jérémy, Bennet, Lucas
 * [Lien Trello](https://trello.com/b/g86dOjuk/jeremy-lucas-benneth)
 * [Lien Github](https://github.com)
