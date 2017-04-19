@@ -3,7 +3,7 @@
 ## Les agences :
 
 ### VGB Marketing Corporation Agency
-#### Membres : Véronique, Benoît, Guillaume
+#### Membres : Véronique, Guillaume, Benoît 
 * [Lien Trello](https://trello.com/b/Bs5Ta0nN/creation-du-parcours-utilisateur-en-diagramme)
 * [Lien Github](https://github.com)
 
