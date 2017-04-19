@@ -16,9 +16,9 @@
 
 # -------------------------------
 
-### Rob-fab-ric Agency^^
+### SovietDesign
 #### Membres : Robin, Fabien, Audric
-* [Lien Trello](https://trello.com/b/ZA4fHZeN/robin-fabien-audric)
+* [Lien Trello](https://trello.com/sovietdesign)
 * [Lien Github](https://github.com)
 
 # -------------------------------
