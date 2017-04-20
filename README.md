@@ -12,7 +12,7 @@
 ### JRN Agency
 #### Membres : Julien, Romain, Nadine
 * [Lien Trello](https://trello.com/jrnagency)
-* [Lien Github](https://github.com)
+* [Lien Github](https://github.com/bonbers/Project-JRN-Agency)
 
 # -------------------------------
 
